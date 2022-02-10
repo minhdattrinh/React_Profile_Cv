@@ -13,8 +13,8 @@ const Experiences = () => {
             <div className="col s12">
               <blockquote className="content-right">
                 <h6 className="no-pad mt-bottom">
-                  <strong>WEB DEVELOPER</strong>
-                  <span> 2012-2012</span>
+                  <strong>FRONTEND DEVELOPER</strong>
+                  <span> 2022</span>
                 </h6>
                 <p className="pt">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam earum
