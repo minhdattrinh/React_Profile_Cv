@@ -5,7 +5,7 @@ const Educations = () => {
         <div className="card-content">
           <h6>
             <strong>
-              <i className="fa fa-graduation"></i> EDUCATION
+              <i className="fa fa-graduation-cap"></i> EDUCATION
             </strong>
           </h6>
           <hr />
