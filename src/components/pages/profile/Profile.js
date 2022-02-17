@@ -13,10 +13,10 @@ const Profile = () => {
       <div className="card light-blue darken-4 z-depth-0 hide-on-large-only">
         <div className="card-content center social">
           <h2 className="grey-text text-lighten-3">
-            <strong>Minh Dat</strong>
+            <strong>Minh Dat Trinh</strong>
           </h2>
           <h5 className="grey-text text-darken-1">FrontEnd Developer</h5>
-          <a href="https://facebook.com" target="blank">
+          <a href="https://facebook.com/min.cntt" target="blank">
             <i className="fab fa-facebook-square fa-2x"></i>
           </a>
           <a href="https://twitter.com" target="blank">
@@ -25,7 +25,7 @@ const Profile = () => {
           <a href="https://linkedin.com" target="blank">
             <i className="fab fa-linkedin fa-2x"></i>
           </a>
-          <a href="https://github.com" target="blank">
+          <a href="https://github.com/minhdattrinh" target="blank">
             <i className="fab fa-github-square fa-2x"></i>
           </a>
         </div>

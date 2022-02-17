@@ -4,9 +4,9 @@ const About = () => {
       <div className="card z-depth-0 hide-on-med-and-down pt">
         <div className="card-content social ">
           <h2 className="grey-text text-darken-3 ">
-            <strong>MINH DAT TRINH</strong>
+            <strong>Minh Dat Trinh</strong>
           </h2>
-          <h5 className="grey-text text-darken-1"> FrontEnd Developer</h5>
+          <h5 className="grey-text "> FrontEnd Developer</h5>
           <a href="https://facebook.com" target="blank">
             <i className="fab fa-facebook-square fa-2x"></i>
           </a>
